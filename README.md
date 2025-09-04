@@ -36,7 +36,7 @@ Performed a full penetration test against an intentionally vulnerable box.
 
 - [TryHackMe: Daily Bugle Walkthrough](#)
 - [HTB: Legacy – Windows Exploitation](#)
-*(replace these with actual links or GitHub files)*
+
 
 ---
 
