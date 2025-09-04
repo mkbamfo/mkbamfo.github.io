@@ -16,11 +16,12 @@ Welcome to my cybersecurity portfolio! I'm a generalist with interests in both o
 
 ## 🧪 Projects & Labs
 
-### 🔹 [TryHackMe: Blue Walkthrough](https://tryhackme.com/p/mkbamfo)
-Performed enumeration, identified SMB vulnerabilities, exploited misconfigured shares, and achieved privilege escalation.
+### 🔹 [TryHackMe: Blue Walkthrough - PRE SECURITY](https://tryhackme.com/p/mkbamfo)
+CYBER SECURITY FOUNDATION
+LABS COVERED
+- Offensive Security
+- Defensive Security
 
-**Tools Used**: Nmap, Enum4linux, SMBclient, WinPEAS  
-**Focus**: Enumeration, PrivEsc
 
 ---
 
