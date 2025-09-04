@@ -19,17 +19,13 @@ Welcome to my cybersecurity portfolio! I'm a generalist with interests in both o
 ### 🔹 [TryHackMe: Blue Walkthrough - PRE SECURITY](https://tryhackme.com/p/mkbamfo)
 CYBER SECURITY FOUNDATION
 LABS COVERED
-- Offensive Security
-- Defensive Security
+- Offensive Security Intro
+- Defensive Security Intro
 
 
 ---
 
-### 🔹 Hack The Box: Lame Writeup (Sample)
-Performed a full penetration test against an intentionally vulnerable box.
-
-**Tools Used**: Nmap, ExploitDB, Metasploit  
-**Focus**: Initial Access, Exploitation
+### 🔹 Hack The Box:
 
 ---
 
@@ -46,9 +42,7 @@ Performed a full penetration test against an intentionally vulnerable box.
 | Cert               | Provider        | Status     |
 |--------------------|-----------------|------------|
 | Security+          | Comptia         | [View Badge](https://www.credly.com/badges/e034281e-68d1-4612-bec9-8c73a30556c9/public_url) |
-
----
-
+| Azure Fundamentals | Microsoft       | [View Badge](https://learn.microsoft.com/en-us/users/markbamfo-3825/credentials/8b4df469ece051be?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
 ## 📫 Contact
 
 - 📧 Email: mkbamfo@gmail.com  
