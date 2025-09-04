@@ -44,9 +44,7 @@ Performed a full penetration test against an intentionally vulnerable box.
 
 | Cert               | Provider        | Status     |
 |--------------------|-----------------|------------|
-| TryHackMe          | THM Profile     | [View Profile](https://tryhackme.com/p/mkbamfo) |
-| Hack The Box       | HTB Profile     | [View Profile](https://app.hackthebox.com/profile) |
-| Security+          | Comptia         | [View Profile](https://www.credly.com/badges/e034281e-68d1-4612-bec9-8c73a30556c9/public_url) |
+| Security+          | Comptia         | [View Badge](https://www.credly.com/badges/e034281e-68d1-4612-bec9-8c73a30556c9/public_url) |
 
 ---
 
