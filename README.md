@@ -31,8 +31,8 @@ LABS COVERED
 
 ## ✍️ Blog / Writeups
 
-- [TryHackMe: Daily Bugle Walkthrough](#)
-- [HTB: Legacy – Windows Exploitation](#)
+- 
+- 
 
 
 ---
