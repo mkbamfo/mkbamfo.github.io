@@ -5,20 +5,21 @@ Welcome to my cybersecurity portfolio! I'm a generalist with interests in both o
 
 ---
 
-## 🔧 Skills & Tools
-- Kali Linux, Metasploit, Nmap, Wireshark
-- Burp Suite, OWASP ZAP
-- Python (automation scripts)
-- Splunk, ELK Stack (Blue Team)
-- John the Ripper, Hashcat
+## 🛠️ Skills & Tools
+- Defensive: Splunk, Wireshark, pfSense, Snort  
+- Offensive: Nmap, Burp Suite, Metasploit  
+- Cloud: AWS IAM, S3, CloudTrail, Microsoft Entra ID  
+- Other: Linux, Python, Git  
 
 ---
 
-## 🧪 Projects & Labs
+## 🧪 PROJECTS 
 
-### 🔹 [TryHackMe: Blue Walkthrough - PRE SECURITY](https://tryhackme.com/p/mkbamfo)
+
+
+LABS 
+### 🔹 [TryHackMe: Blue Walkthrough - PRE SECURITY](https://tryhackme.com/p/mkbamfo) 
 CYBER SECURITY FOUNDATION
-LABS COVERED
 - Offensive Security Intro
 - Defensive Security Intro
 - Search Skills
