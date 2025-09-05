@@ -21,7 +21,7 @@ CYBER SECURITY FOUNDATION
 LABS COVERED
 - Offensive Security Intro
 - Defensive Security Intro
-
+- Search Skills
 
 ---
 
