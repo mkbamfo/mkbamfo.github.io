@@ -13,7 +13,9 @@ Welcome to my cybersecurity portfolio! I'm a generalist with interests in both o
 
 ---
 
-## 🧪 PROJECTS 
+## 🧪 Projects & Labs
+
+PROJECTS
 
 
 
@@ -38,7 +40,7 @@ CYBER SECURITY FOUNDATION
 
 ---
 
-## 🎓 Certifications
+## 🏅 Certifications & Achievements
 
 | Cert               | Provider        | Status     |
 |--------------------|-----------------|------------|
