@@ -13,13 +13,7 @@ Welcome to my cybersecurity portfolio! I'm a generalist with interests in both o
 
 ---
 
-## 🧪 Projects & Labs
-
-PROJECTS
-
-
-
-LABS 
+## 🧪 Step-By-Step Hands-On Labs || Tutorials
 ### 🔹 [TryHackMe: Blue Walkthrough - PRE SECURITY](https://tryhackme.com/p/mkbamfo) 
 CYBER SECURITY FOUNDATION
 - Offensive Security Intro
